@@ -16,5 +16,5 @@ Sample website with plenty of files for demos
 aaaaaa
 bbbbbbb
 ###Copyright
-2020 git
+2020 git allRight rev
 ###test2
